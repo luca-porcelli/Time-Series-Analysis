@@ -14,3 +14,7 @@ Here you can find the following files:
 - **Code.ipynb**: the code for the work done
 - **Project.pdf**: the paper describing the completed project
 - **Presentation.pdf**: the presentation used to showcase the project
+
+### Project Objectives
+- Provide forecasts for all days from April 1, 2015, through November 7, 2015.
+- Produce three sequences of forecasts using an ARIMA model, a UCM model, and a Machine Learning (ML) model.
